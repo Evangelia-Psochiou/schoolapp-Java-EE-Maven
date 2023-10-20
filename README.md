@@ -1,4 +1,4 @@
-# schoolapp-cf22-Java-EE-Maven
+# schoolapp-Java-EE-Maven
 
 A Full Stack App for managing a school system with login providing Authentication, Validation, which allows users to log in as either administrators to perform CRUD operations on users or as regular users to perform CRUD operations on teachers.
 
