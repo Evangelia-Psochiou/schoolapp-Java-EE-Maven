@@ -4,9 +4,10 @@ A Full Stack App for managing a school system with login providing Authenticatio
 
 Technologies: 
 1. Java 11
-2. Apache Maven 3.3.2
-3. Apache Tomcat
-4. MySQL 8.0.23
-5. JSP/Servlets
+2. CSS
+3. MySQL 8.0.23
+4. JSP/Servlets
+5. Apache Maven 3.3.2
+6. Apache Tomcat 9.0.72
 
 
